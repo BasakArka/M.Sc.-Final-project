@@ -1,2 +1,2 @@
 # M.Sc.-Final-project
-Source of Data and codes for M.Sc. Final Year Project
+Source of codes for M.Sc. Final Year Project
